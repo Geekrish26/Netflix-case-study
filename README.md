@@ -71,4 +71,4 @@ Data was cleaned and transformed for exploratory analysis using pandas and NumPy
 
 ## Author
 **Krishna Agarwal**  
-Data Science Enthusiast | Exploratory Data Analysis | Visualization | Business Insights
+Data Science Enthusiast
