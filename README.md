@@ -69,6 +69,12 @@ Data was cleaned and transformed for exploratory analysis using pandas and NumPy
 - Apply machine learning models to predict the success of upcoming shows based on features such as genre, country, and release year.
 - Incorporate sentiment analysis on user reviews (if available) for deeper insights.
 
+## 📊 Power BI Dashboard
+
+<p align="center">
+  <img src="dashboard.png" alt="Netflix Dashboard" width="100%">
+</p>
+
 ## Author
 **Krishna Agarwal**  
 Data Science Enthusiast
